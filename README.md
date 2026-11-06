@@ -18,7 +18,7 @@ I am the Founder and Software Architect of **SmartDataPro Ltd**, where I design 
 
 **Databases & Data Engineering:** PostgreSQL, Prisma ORM, Redis, relational data modelling, multi-tenant architectures and database integration.
 
-**Artificial Intelligence & Machine Learning:** Python, TensorFlow, PyTorch, NumPy, PyLab, Scikit-learn, neural networks, convolutional neural networks, classification, probabilistic reasoning, Bayesian methods, data preparation and applied AI workflows.
+**Artificial Intelligence & Machine Learning:** Python, TensorFlow, PyTorch, NumPy, Scikit-learn, neural networks, convolutional neural networks, classification, probabilistic reasoning, Bayesian methods, data preparation and applied AI workflows.
 
 **Architecture & Delivery:** Enterprise solution architecture, distributed application design, cloud deployments, Git/GitHub, automated testing, production troubleshooting, system integration and technical documentation.
 
